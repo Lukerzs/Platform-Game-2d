@@ -1,6 +1,6 @@
 # Platform-Game-2d
 
-this is mmy first game project ever, so maybe is buggy.
+this is my first game project ever, so maybe is buggy.
 It was created using Unity and C#.
 the initial idea was to really get our hands dirty and create a project.
 it's still extremely simple, but it's better than nothing.
